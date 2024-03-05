@@ -1,5 +1,10 @@
 ---
-title: "Screencast Checklist"
+title: Screencast Checklist
+date: '2024-05-02'
+categories:
+- Project
+- Week14
+- Week14
 ---
 
 

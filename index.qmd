@@ -1,9 +1,12 @@
 ---
-author: "Your Name"
-date: "2023-05-04"
-title: "Project: Screencast"
+author: Your Name
+date: '2024-04-15'
+title: 'Project: Screencast'
 output: html
-categories: project
+categories:
+- Project
+- Week12
+- Week12
 ---
 
 # Project Description
