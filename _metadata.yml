@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 type: Project
+=======
+type: project
+>>>>>>> merge
 image: ../figs/project.svg

@@ -3,6 +3,8 @@ author: Your Name
 date: '2024-04-21'
 title: Screencast Pseudocode
 output: html
-categories: Project
+categories:
+- Project
+- Week12
 ---
 
