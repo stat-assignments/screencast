@@ -6,7 +6,6 @@ output: html
 categories:
 - Project
 - Week12
-- Week12
 ---
 
 [Link to dataset]()
