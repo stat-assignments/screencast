@@ -1,10 +1,24 @@
 ---
 author: Your Name
-date: '2024-04-21'
 title: Screencast Pseudocode
 output: html
 categories:
 - Project
-- Week12
 ---
 
+For each of the questions ('Things') you are trying to answer from your data set, write out detailed step-by-step procedures to get from the raw data to a final answer.
+Make sure to include enough details:
+
+  - which dataset are you using? 
+  - which variables are relevant for each of the questions?
+  - how are the variables defined? 
+  - ...
+
+# Initial overview
+
+Introduce your topic and your dataset, and make sure that all relevant variables are in the right format. Major data wrangling steps should be part of one of the 'Things' rather than happen here. 
+
+
+# Thing 1: <put your first question here>
+
+step 1: ...
